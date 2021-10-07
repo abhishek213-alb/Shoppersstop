@@ -14,7 +14,7 @@ I am working on an ecommerce website
 **2.** Clone the forked repository.
 <br> 
 ```bash
-git clone https://github.com/<your-username>/webdev.git
+git clone https://github.com/<your-username>/shopperstop.git
 ```
 
 <br> 
